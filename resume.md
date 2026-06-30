@@ -2,7 +2,7 @@
 
 [ryanomasta3@gmail.com](mailto:ryanomasta3@gmail.com) | _Edmonton, AB, Canada_
 
-Computer Engineering graduate from NAIT with experience in automation, infrastructure, and scalable systems. Skilled in DevOps practices, cloud technologies, Linux systems, and system reliability, with a strong interest in cybersecurity and operational security. Experienced in using AI-assisted tools to automate workflows and improve efficiency.
+Computer Engineering graduate from NAIT with experience in automation, infrastructure, and scalable systems. I am seeking an opportunity to gain experience in a supportive and inclusive workplace.
 
 -------------------------------------------
 
