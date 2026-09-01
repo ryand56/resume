@@ -21,6 +21,12 @@
         )
       ) (system: f nixpkgs.legacyPackages.${system});
   in {
+    devShells = forAllSystems (pkgs: {
+      default = pkgs.mkShellNoCC {
+        packages = [ pkgs.typst ];
+      };
+    });
+
     packages = forAllSystems (pkgs: {
       resume =
         pkgs.runCommand "resume.pdf" {
