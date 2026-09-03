@@ -6,7 +6,7 @@
 )
 
 #show title: set text(
-  font: "Times New Roman",
+  font: "Liberation Serif",
   size: 17pt,
 )
 #show title: set align(center)
