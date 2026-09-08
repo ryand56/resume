@@ -23,9 +23,9 @@
 #title[Ryan Omasta]
 
 #align(center)[
-  #link("mailto:ryan@ryand.ca")[ryan\@ryand.ca] | _Edmonton, AB, Canada_
+  #link("mailto:ryanomasta3@gmail.com")[ryanomasta3\@gmail.com] | +1 (587)-588-6922 | _Edmonton, AB, Canada_
 
-  Computer Engineering graduate from NAIT with experience in automation, infrastructure, and scalable systems. I am seeking an opportunity to gain experience in a supportive and inclusive workplace.
+  Computer Engineering graduate (NAIT) with a technical foundation in systems, networking, and automation. Comfortable diagnosing hardware and software issues, working with Windows/Linux, and explaining fixes clearly to non-technical users. Looking to bring that to a service desk team.
 ]
 
 == Technical Skills
@@ -40,7 +40,7 @@
 
 == Education
 #date-entry[Computer Engineering Technology][
-  January 2024 - April 2026
+  Graduated April 2026
 ][Northern Alberta Institute of Technology]
 
 #block(
@@ -58,11 +58,11 @@
 
 Digital Media and IT - Previous program, switched out January 2024
 
-#date-entry[Foundations in Data Analytics and Business Intelligence][June 2023][
+#date-entry[Foundations in Data Analytics and Business Intelligence][Completed June 2023][
   NorQuest College
 ]
 
-#date-entry[Academic High School Diploma (Honors Grade 10, 11 and 12)][June 2022][
+#date-entry[Academic High School Diploma (Honors Grade 10, 11 and 12)][Graduated June 2022][
   Archbishop O'Leary High School
 ]
 
@@ -81,8 +81,6 @@ Digital Media and IT - Previous program, switched out January 2024
 
 == Certificates
 *Computer Science 30 - Advanced Placement* (Honor student, highest grade)
-
-#pagebreak()
 
 == Projects
 #date-entry[Anxiety / Stress Monitor (wearable) using ESP32 and Flutter][January 2026 - April 2026][
