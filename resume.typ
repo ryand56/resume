@@ -25,7 +25,7 @@
 #align(center)[
   #link("mailto:ryanomasta3@gmail.com")[ryanomasta3\@gmail.com] | +1 (587)-588-6922 | _Edmonton, AB, Canada_
 
-  Computer Engineering graduate (NAIT) with a technical foundation in systems, networking, and automation. Comfortable diagnosing hardware and software issues, working with Windows/Linux, and explaining fixes clearly to non-technical users. Looking to bring that to a service desk team.
+  Computer Engineering graduate (NAIT) with a foundation in systems, networking, and automation. Comfortable in Python, JavaScript, and SQL, working across Windows/Linux, and debugging APIs directly. Looking to grow into full-stack automation and AI integration work.
 ]
 
 == Technical Skills
