@@ -1,16 +1,16 @@
 {
   "nixpkgs": {
     "type": "tarball",
-    "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1070412.19a27817106f/nixexprs.tar.xz",
-    "rev": "19a27817106f9449970edb3a398ab5349666466f",
-    "narHash": "sha256-bO8z6nMt0A6W5ahDmqDblqHV1pIVUfFzOkpad0M2iEw="
+    "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1106813.df1e6651c16c/nixexprs.tar.xz",
+    "rev": "df1e6651c16c38563a164037647a5f00704b3e41",
+    "narHash": "sha256-7TMqKeUu84330pC72iXwvoeuXqdOVxUh/RwPkQPQia8="
   },
   "press": {
     "type": "github",
     "owner": "RossSmyth",
     "repo": "press",
-    "rev": "26a21ebd71b62acef82623c216daff417712dc19",
-    "narHash": "sha256-XHJu+P3sPTlRjAYkdrszee0NUvKYtMUyBKfxp0aAvNY=",
-    "lastModified": 1788659941
+    "rev": "25ba5d14bf53b7dfd88aba5b58754e957592d3e7",
+    "narHash": "sha256-jTcbGn7n1AB2VWUKpULR5bQLYVggdJTqef+HyaQsX5Q=",
+    "lastModified": 1793503099
   }
 }

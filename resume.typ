@@ -25,7 +25,7 @@
 #align(center)[
   #link("mailto:ryanomasta3@gmail.com")[ryanomasta3\@gmail.com] | +1 (587)-588-6922 | _Edmonton, AB, Canada_
 
-  Computer Engineering graduate (NAIT) with a foundation in systems, networking, and automation. Comfortable in Python, JavaScript, and SQL, working across Windows/Linux, and debugging APIs directly. Looking to grow into full-stack automation and AI integration work.
+  Computer Engineering graduate (NAIT) with strong computer skills and knowledge of Microsoft 365, databases, and SQL. Comfortable learning new software, organizing information, and double-checking data for accuracy. Seeking a Data Entry Specialist role where I can apply my technical background and attention to detail.
 ]
 
 == Technical Skills
@@ -35,7 +35,7 @@
 / Backend & Databases: Node.js, MongoDB, FastAPI/Uvicorn, InfluxDB, PostgreSQL, MariaDB/MySQL, JWT, REST
 / Cloud & DevOps: Nix, Terraform, AWS, Azure, GitHub, System Administration, Linux, Unix, Networking, Bash, PowerShell
 / Embedded Systems / IoT: STM32, ESP32, Freescale 9S12, Embedded C/C++, Microcontroller Development, PCB Design
-/ Data & Analytics: Power BI, Power Query, Data Modelling, Grafana, Prometheus
+/ Data & Analytics: Word, Excel, Power BI, Power Query, Data Modelling, Grafana, Prometheus
 / Tools & Other: SharePoint, WinGet, Adobe Creative Suite, Blender
 
 == Education
